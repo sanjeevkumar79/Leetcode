@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanjeevkumar79/Leetcode/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/sanjeevkumar79/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/sanjeevkumar79/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sanjeevkumar79/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/sanjeevkumar79/Leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/sanjeevkumar79/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
