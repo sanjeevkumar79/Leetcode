@@ -3,8 +3,8 @@ class Solution {
         int[] ans = new int[n+1];
         ans[0]=0;
         for(int i=1;i<=n;i++){
-            int bit= i & 1;
-            ans[i]= ans[i>>1] + bit;
+            //int bit= i & 1;
+            ans[i]= ans[i>>1] + (i & 1);
         }
         return ans;
         
