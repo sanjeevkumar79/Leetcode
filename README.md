@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanjeevkumar79/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/sanjeevkumar79/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sanjeevkumar79/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanjeevkumar79/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/sanjeevkumar79/Leetcode/tree/master/1013-fibonacci-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sanjeevkumar79/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sanjeevkumar79/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanjeevkumar79/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/sanjeevkumar79/Leetcode/tree/master/1013-fibonacci-number) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/sanjeevkumar79/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sanjeevkumar79/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/sanjeevkumar79/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sanjeevkumar79/Leetcode/tree/master/0342-power-of-four) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sanjeevkumar79/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
