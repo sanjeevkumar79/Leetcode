@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sanjeevkumar79/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sanjeevkumar79/Leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/sanjeevkumar79/Leetcode/tree/master/0401-binary-watch) |
+| [0461-hamming-distance](https://github.com/sanjeevkumar79/Leetcode/tree/master/0461-hamming-distance) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sanjeevkumar79/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
