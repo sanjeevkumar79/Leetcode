@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sanjeevkumar79/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sanjeevkumar79/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanjeevkumar79/Leetcode/tree/master/0342-power-of-four) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/sanjeevkumar79/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/sanjeevkumar79/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sanjeevkumar79/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/sanjeevkumar79/Leetcode/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/sanjeevkumar79/Leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sanjeevkumar79/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/sanjeevkumar79/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sanjeevkumar79/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
