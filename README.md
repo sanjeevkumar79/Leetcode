@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/sanjeevkumar79/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/sanjeevkumar79/Leetcode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sanjeevkumar79/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2491-smallest-even-multiple](https://github.com/sanjeevkumar79/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/0898-transpose-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/sanjeevkumar79/Leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
