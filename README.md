@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjeevkumar79/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0079-word-search](https://github.com/sanjeevkumar79/Leetcode/tree/master/0079-word-search) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjeevkumar79/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0898-transpose-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/0898-transpose-matrix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sanjeevkumar79/Leetcode/tree/master/0079-word-search) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sanjeevkumar79/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bit Manipulation
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sanjeevkumar79/Leetcode/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/sanjeevkumar79/Leetcode/tree/master/0401-binary-watch) |
 ## Sorting
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sanjeevkumar79/Leetcode/tree/master/0079-word-search) |
 | [0898-transpose-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
@@ -131,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2331-intersection-of-multiple-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sanjeevkumar79/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
