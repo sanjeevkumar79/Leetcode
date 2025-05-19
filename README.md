@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sanjeevkumar79/Leetcode/tree/master/0079-word-search) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjeevkumar79/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0861-flipping-an-image](https://github.com/sanjeevkumar79/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sanjeevkumar79/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjeevkumar79/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0861-flipping-an-image](https://github.com/sanjeevkumar79/Leetcode/tree/master/0861-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/sanjeevkumar79/Leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sanjeevkumar79/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/sanjeevkumar79/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0861-flipping-an-image](https://github.com/sanjeevkumar79/Leetcode/tree/master/0861-flipping-an-image) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sanjeevkumar79/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Rolling Hash
 |  |
@@ -120,12 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sanjeevkumar79/Leetcode/tree/master/0079-word-search) |
+| [0861-flipping-an-image](https://github.com/sanjeevkumar79/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sanjeevkumar79/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/sanjeevkumar79/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sanjeevkumar79/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
