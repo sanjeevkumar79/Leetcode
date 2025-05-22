@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sanjeevkumar79/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanjeevkumar79/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3647-zero-array-transformation-iii](https://github.com/sanjeevkumar79/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjeevkumar79/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [3647-zero-array-transformation-iii](https://github.com/sanjeevkumar79/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Math
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sanjeevkumar79/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [3647-zero-array-transformation-iii](https://github.com/sanjeevkumar79/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -164,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sanjeevkumar79/Leetcode/tree/master/0079-word-search) |
+## Greedy
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/sanjeevkumar79/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/sanjeevkumar79/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
