@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/sanjeevkumar79/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sanjeevkumar79/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/sanjeevkumar79/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [3647-zero-array-transformation-iii](https://github.com/sanjeevkumar79/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
@@ -176,5 +177,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/sanjeevkumar79/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [3647-zero-array-transformation-iii](https://github.com/sanjeevkumar79/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
