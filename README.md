@@ -179,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/sanjeevkumar79/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [3647-zero-array-transformation-iii](https://github.com/sanjeevkumar79/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sanjeevkumar79/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
