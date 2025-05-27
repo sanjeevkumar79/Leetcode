@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sanjeevkumar79/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sanjeevkumar79/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sanjeevkumar79/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sanjeevkumar79/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/sanjeevkumar79/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanjeevkumar79/Leetcode/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/sanjeevkumar79/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/sanjeevkumar79/Leetcode/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/sanjeevkumar79/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sanjeevkumar79/Leetcode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/sanjeevkumar79/Leetcode/tree/master/2491-smallest-even-multiple) |
 ## Counting
 |  |
