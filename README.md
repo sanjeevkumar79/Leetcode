@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sanjeevkumar79/Leetcode/tree/master/0079-word-search) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjeevkumar79/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sanjeevkumar79/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/sanjeevkumar79/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/sanjeevkumar79/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/0777-toeplitz-matrix) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjeevkumar79/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanjeevkumar79/Leetcode/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/sanjeevkumar79/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/sanjeevkumar79/Leetcode/tree/master/0861-flipping-an-image) |
 ## Binary Search
