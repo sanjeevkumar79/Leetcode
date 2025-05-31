@@ -23,7 +23,7 @@ class Solution {
             prev = second;
             second = second.next;
         }
-        prev.next = second.next;
+        prev.next = prev.next.next;
         return head;
     }
 }
