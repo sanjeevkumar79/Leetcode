@@ -20,8 +20,8 @@ public class Solution {
             slow = slow.next;
             fast = fast.next.next;
 
-            if (slow == fast) return true;  // Cycle detected
+            if (slow == fast) return true;  //Cycle detected
         }
-        return false;  // No cycle
+        return false;  //No cycle
     }
 }
