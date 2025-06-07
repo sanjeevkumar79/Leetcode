@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sanjeevkumar79/Leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/sanjeevkumar79/Leetcode/tree/master/0079-word-search) |
 | [0874-backspace-string-compare](https://github.com/sanjeevkumar79/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/sanjeevkumar79/Leetcode/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sanjeevkumar79/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sanjeevkumar79/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bit Manipulation
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sanjeevkumar79/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/sanjeevkumar79/Leetcode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/sanjeevkumar79/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/sanjeevkumar79/Leetcode/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sanjeevkumar79/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sanjeevkumar79/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Design
