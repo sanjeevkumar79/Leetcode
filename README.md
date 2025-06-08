@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sanjeevkumar79/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/sanjeevkumar79/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0621-task-scheduler](https://github.com/sanjeevkumar79/Leetcode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/sanjeevkumar79/Leetcode/tree/master/0682-baseball-game) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/sanjeevkumar79/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0777-toeplitz-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/0777-toeplitz-matrix) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sanjeevkumar79/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjeevkumar79/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0621-task-scheduler](https://github.com/sanjeevkumar79/Leetcode/tree/master/0621-task-scheduler) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sanjeevkumar79/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sanjeevkumar79/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sanjeevkumar79/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0621-task-scheduler](https://github.com/sanjeevkumar79/Leetcode/tree/master/0621-task-scheduler) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/sanjeevkumar79/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sanjeevkumar79/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/sanjeevkumar79/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/sanjeevkumar79/Leetcode/tree/master/0621-task-scheduler) |
 | [2331-intersection-of-multiple-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Depth-First Search
 |  |
@@ -206,10 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/sanjeevkumar79/Leetcode/tree/master/0621-task-scheduler) |
 | [3647-zero-array-transformation-iii](https://github.com/sanjeevkumar79/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/sanjeevkumar79/Leetcode/tree/master/0621-task-scheduler) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/sanjeevkumar79/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [3647-zero-array-transformation-iii](https://github.com/sanjeevkumar79/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Linked List
