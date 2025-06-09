@@ -3,7 +3,8 @@ class Solution {
         Arrays.sort(nums);
         int n = nums.length;
 
-        for(int x=0; x<=n; x++){
+        int x=0;
+        while(x<=n){
             int count=0;
             for(int num : nums){
                 if(num >= x){
@@ -13,6 +14,7 @@ class Solution {
             if(count == x){
                 return x;
             }
+            x++;
         }
         return -1;
     }
