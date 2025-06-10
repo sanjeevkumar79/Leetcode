@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/sanjeevkumar79/Leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sanjeevkumar79/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2238-a-number-after-a-double-reversal](https://github.com/sanjeevkumar79/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/sanjeevkumar79/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanjeevkumar79/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Dynamic Programming
