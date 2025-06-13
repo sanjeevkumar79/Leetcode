@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sanjeevkumar79/Leetcode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sanjeevkumar79/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sanjeevkumar79/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sanjeevkumar79/Leetcode/tree/master/0101-symmetric-tree) |
 ## Greedy
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanjeevkumar79/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sanjeevkumar79/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/sanjeevkumar79/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sanjeevkumar79/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sanjeevkumar79/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sanjeevkumar79/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sanjeevkumar79/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sanjeevkumar79/Leetcode/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sanjeevkumar79/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sanjeevkumar79/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sanjeevkumar79/Leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
