@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanjeevkumar79/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanjeevkumar79/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanjeevkumar79/Leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/sanjeevkumar79/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sanjeevkumar79/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjeevkumar79/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sanjeevkumar79/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanjeevkumar79/Leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/sanjeevkumar79/Leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/sanjeevkumar79/Leetcode/tree/master/0125-valid-palindrome) |
 | [0874-backspace-string-compare](https://github.com/sanjeevkumar79/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/sanjeevkumar79/Leetcode/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sanjeevkumar79/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
