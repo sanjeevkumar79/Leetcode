@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sanjeevkumar79/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanjeevkumar79/Leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sanjeevkumar79/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3647-zero-array-transformation-iii](https://github.com/sanjeevkumar79/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/sanjeevkumar79/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sanjeevkumar79/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sanjeevkumar79/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sanjeevkumar79/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sanjeevkumar79/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sanjeevkumar79/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sanjeevkumar79/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
