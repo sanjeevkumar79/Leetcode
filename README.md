@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sanjeevkumar79/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1677-matrix-diagonal-sum](https://github.com/sanjeevkumar79/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sanjeevkumar79/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sanjeevkumar79/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/sanjeevkumar79/Leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/sanjeevkumar79/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/sanjeevkumar79/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sanjeevkumar79/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sanjeevkumar79/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sanjeevkumar79/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sanjeevkumar79/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sanjeevkumar79/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sliding Window
 |  |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/sanjeevkumar79/Leetcode/tree/master/0621-task-scheduler) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/sanjeevkumar79/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/sanjeevkumar79/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sanjeevkumar79/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sanjeevkumar79/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/sanjeevkumar79/Leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
