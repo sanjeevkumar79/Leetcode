@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sanjeevkumar79/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/sanjeevkumar79/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanjeevkumar79/Leetcode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/sanjeevkumar79/Leetcode/tree/master/0415-add-strings) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/sanjeevkumar79/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/sanjeevkumar79/Leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sanjeevkumar79/Leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/sanjeevkumar79/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sanjeevkumar79/Leetcode/tree/master/0125-valid-palindrome) |
+| [0415-add-strings](https://github.com/sanjeevkumar79/Leetcode/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/sanjeevkumar79/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/sanjeevkumar79/Leetcode/tree/master/0886-score-of-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sanjeevkumar79/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sanjeevkumar79/Leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/sanjeevkumar79/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/sanjeevkumar79/Leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/sanjeevkumar79/Leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/sanjeevkumar79/Leetcode/tree/master/0874-backspace-string-compare) |
