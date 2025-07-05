@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanjeevkumar79/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sanjeevkumar79/Leetcode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/sanjeevkumar79/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/sanjeevkumar79/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sanjeevkumar79/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sanjeevkumar79/Leetcode/tree/master/0070-climbing-stairs) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sanjeevkumar79/Leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/sanjeevkumar79/Leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/sanjeevkumar79/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sanjeevkumar79/Leetcode/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/sanjeevkumar79/Leetcode/tree/master/0415-add-strings) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sanjeevkumar79/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sanjeevkumar79/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sanjeevkumar79/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/sanjeevkumar79/Leetcode/tree/master/0415-add-strings) |
